@@ -1,0 +1,93 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniSvtyTwoOSITCTT-Book
+FamilyName:Bodoni 72 Oldstyle
+StyleName:Book
+MenuName:Bodoni 72 Oldstyle
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bodoni 72 Oldstyle Book
+WritingScript:Roman
+OutlineFileName:\Bodoni 72 OS.ttc
+TTCOffset:36
+DataFormat:sfntData
+FileLength:230216
+FileModTime:1445617932
+NameArray:0,Mac,4,Bodoni 72 Oldstyle Book
+NameArray:0,Win,1,Bodoni 72 Oldstyle
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniSvtyTwoOSITCTT-BookIt
+FamilyName:Bodoni 72 Oldstyle
+StyleName:Book Italic
+MenuName:Bodoni 72 Oldstyle
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Bodoni 72 Oldstyle Book Italic
+WritingScript:Roman
+OutlineFileName:\Bodoni 72 OS.ttc
+TTCOffset:288
+DataFormat:sfntData
+FileLength:230216
+FileModTime:1445617932
+NameArray:0,Mac,4,Bodoni 72 Oldstyle Book Italic
+NameArray:0,Win,1,Bodoni 72 Oldstyle
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniSvtyTwoOSITCTT-Bold
+FamilyName:Bodoni 72 Oldstyle
+StyleName:Bold
+MenuName:Bodoni 72 Oldstyle
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Bodoni 72 Oldstyle Bold
+WritingScript:Roman
+OutlineFileName:\Bodoni 72 OS.ttc
+TTCOffset:540
+DataFormat:sfntData
+FileLength:230216
+FileModTime:1445617932
+NameArray:0,Mac,4,Bodoni 72 Oldstyle Bold
+NameArray:0,Win,1,Bodoni 72 Oldstyle
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1458817651
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
